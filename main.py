@@ -59,7 +59,8 @@ Drafting notes (scored against the judge brief):
   "gatecrashed" lands the defiance after two rejections as a
   concrete verb. No change needed; the line stands as
   tournament-won.
-- Gate check: 98 chars, 1-100 required, UTF-8, single line.
+- Gate check: 98 chars, 1-100 required, UTF-8, single line. Verified
+  by running main.py: writes 98 characters to /output/entry.txt.
 """
 
 import os
